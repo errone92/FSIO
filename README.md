@@ -18,7 +18,7 @@ Requirements:
 Instructions:
 The script is setup so that one can use the tool by only interacting with 'User input/output' area at the beginning of the script.
 
-![User Input/Output](User_InputOutput.png)
+<img src="User_InputOutput.png" width="500" height="500">
 
 1. Input your parametric geometry in the geometry container.
 2. Give a case name and wind speed.
