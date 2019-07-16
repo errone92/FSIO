@@ -1,5 +1,5 @@
 # FSIO
-This is a the Fluid-Structure Interaction based Optimisation (FSIO) script developed as part of my master thesis in the Building Technology programme at the TU Delft Faculty of Architecture and the Built Environment.
+This is the Fluid-Structure Interaction based Optimisation (FSIO) script developed as part of my master thesis in the Building Technology programme at the TU Delft Faculty of Architecture and the Built Environment.
 
 This script is a proof of concept of the method developed to optimise the external geometry of a complex shaped high-rise building based on static wind loading in an early design phase. It combines CFD and FEA in a partitioned FSI approach which is coupled with surrogate model based optimisation to manipulate a parametrically defined geometry to improve performance. The objective of the optimisation is to reduce the mass of material needed in the structural core of the building. The script is built for ease of use only requiring input in the 'User input/output' area of the script. More advanced users feel free to modify and improve the total script. It would be great to know what improvements you have made. Please reference the thesis if you use in your work.
 
@@ -7,7 +7,7 @@ The thesis report can be found here: https://repository.tudelft.nl/islandora/obj
 
 Requirements:
 - Rhinoceros 6
-- Grasshopper v1.x
+- Grasshopper 1.0
 - Karamba3d 1.3.1
 - Butterfly 0.0.05
 - Opossum 1.7.1
